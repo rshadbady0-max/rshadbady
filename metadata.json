@@ -1,0 +1,6 @@
+{
+  "name": "English Mastery",
+  "description": "تطبيق متكامل لتعلم اللغة الإنجليزية بدون إنترنت من الصفر حتى الاحتراف مع الكلمات والاختبارات التفاعلية والنطق الصوتي والإحصائيات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
